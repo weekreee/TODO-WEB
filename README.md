@@ -1,9 +1,5 @@
-#Praktikum Pemrograman Web
-List Anggota
-Jeany Aurellia Putri Dewati  - 5027221008
-Wikri Cahya Syahrila         - 5027221020
-Nicholas Marco Weinandra     - 5027221042
-
+# Praktikum Pemrograman Web
+MODUL !-2
 # example project for modul 1 & 2
 
 This template should help get you started developing with Vue 3 in Vite.
